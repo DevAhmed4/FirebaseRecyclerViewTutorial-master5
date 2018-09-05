@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".AddingDataActivity"
+    tools:showIn="@layout/activity_main2">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <EditText
+                android:id="@+id/Title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/fab_margin"
+                android:ems="10"
+                android:hint="Title"
+                android:inputType="textPersonName"
+                android:padding="@dimen/fab_margin"
+                android:textColorHint="@color/colorAccent" />
+
+            <EditText
+                android:id="@+id/Desc"
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:layout_margin="@dimen/fab_margin"
+                android:ems="10"
+                android:hint="Description"
+                android:inputType="textMultiLine"
+                android:lines="8"
+                android:padding="@dimen/fab_margin"
+                android:textColorHint="@color/colorAccent" />
+
+            <EditText
+                android:id="@+id/ImageUrl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/fab_margin"
+                android:ems="10"
+                android:hint="Image URL"
+                android:inputType="textPersonName"
+                android:padding="@dimen/fab_margin"
+                android:textColorHint="@color/colorAccent" />
+
+            <EditText
+                android:id="@+id/URL"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/fab_margin"
+                android:ems="10"
+                android:hint="Site URL"
+                android:inputType="textPersonName"
+                android:padding="@dimen/fab_margin"
+                android:textColorHint="@color/colorAccent" />
+
+            <Button
+                android:id="@+id/AddDataButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/cardview_light_background"
+                android:text="AddData" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

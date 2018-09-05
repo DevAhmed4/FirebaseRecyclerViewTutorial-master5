@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Jobs_Fragment">
+
+
+
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#fcfcfc"
+        >
+
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            >
+
+            <android.support.design.widget.CollapsingToolbarLayout
+                android:id="@+id/collapsingToolBar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:layout_scrollFlags="exitUntilCollapsed|scroll"
+                app:contentScrim="?attr/colorPrimary"
+                app:title="@string/collapsingToolBarTitle"
+                app:expandedTitleMarginStart="48dp"
+                app:expandedTitleMarginEnd="64dp"
+                android:background="@drawable/download2"
+                >
+
+                <android.support.v7.widget.Toolbar
+                    android:id="@+id/toolBarId"
+                    app:popupTheme="@style/Theme.AppCompat.Light"
+                    app:layout_collapseMode="pin"
+                    android:layout_width="match_parent"
+                    android:layout_height="?attr/actionBarSize">
+
+                </android.support.v7.widget.Toolbar>
+
+            </android.support.design.widget.CollapsingToolbarLayout>
+
+
+        </android.support.design.widget.AppBarLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+
+            <firebase.devteam.com.myapplication.EmptyRecyclerView
+                android:id="@+id/myRecycleView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </firebase.devteam.com.myapplication.EmptyRecyclerView>
+
+            <ProgressBar
+                android:id="@+id/simpleProgressBar"
+                style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                android:layout_width="360dp"
+                android:layout_height="wrap_content"
+                android:background="@color/Splash_Screen_BackGround"
+                android:indeterminate="true"
+                android:max="100"
+                android:progress="50" />
+
+
+            <!-- black background color for progress bar-->
+        </LinearLayout>
+
+
+    </android.support.design.widget.CoordinatorLayout>
+
+</FrameLayout>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "820956558179",
+    "firebase_url": "https://wazzafny-500a8.firebaseio.com",
+    "project_id": "wazzafny-500a8",
+    "storage_bucket": "wazzafny-500a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820956558179:android:bc25d2bea325362c",
+        "android_client_info": {
+          "package_name": "firebase.devteam.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820956558179-sfeje62ukafv146mtbcovls0p0kdrli9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqLx4MQf3NfNbEm58vyfj_xxhWN53sa5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

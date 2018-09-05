@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/jobs_id"
+        android:icon="@drawable/outline_home_black_24dp"
+        android:title="Jobs" />
+    <item
+        android:id="@+id/site_id"
+        android:icon="@drawable/outline_work_black_24dp"
+        android:title="Site" />
+    <item
+        android:id="@+id/about_us_id"
+        android:icon="@drawable/outline_accessibility_black_24dp"
+        android:title="About Us" />
+    <item
+        android:id="@+id/sitesearch_id"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Find Jobs" />
+
+
+
+</menu>

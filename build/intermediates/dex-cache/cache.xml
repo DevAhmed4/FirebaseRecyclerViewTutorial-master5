@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\468d6ad7311ac48ade95fb0c06d331db\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\039f258b5e34340d721ad5b584ef5c22\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\c56e808636bdd47402b8cb4511f0d8cc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8dd77dd9462bc957cbc901cbe9d6c06047f8216">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f4c5f6c61a11552f72d90468fa3b8dbe\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\c87ef04c8ed60bff8b0de8d0db47120d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\1efbd29daac3f4c392ecdf6fce511fde\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e616b95568c5f38322799069485eb73f68ffec0a">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.8.0.aar\aded2fe673e9f611a524f276b55ddcc3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c59cc4d67084879423713a416182208836c0a29f">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\c2f2a1c9b31d241d2dba2329ccd0cebf\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="24cb9bae5fbe94df0f55d87452a291b69a2f22bf">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\ac7aef7e1cbd7d56b7cf87cf229178a3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\2124820ae448583e3d4abcd443bdf645\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\f666fb4d11d3b3b1a3373e88b551e1ae\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\da9bc419c346f231f811311b8fb6d102\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0c96ff1484cdde9a52af9f23f9e0d1de70dd5076">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\951015625fb94c2579d75165ba687422\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\09eddd2fb0f513850ad734591e185266\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\b228bf56662025b3670d22d9ff79ca73\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.0.aar\c345ca7b790a8f31c17cd1e4fd9de520\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="63b9cc88144f20f869dbd7dfb72a082000a57997">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\650715d01f04bb766eb6b653afac5c3d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\27de222beea55783c4d07cc2fb8ec241\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\26b8726ff4a2b6f0a9c04b6505bb37ac\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.8.0.aar\8d79a696a395719990f6edef13a4b19d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="08bbb31d3aae0e337647a49575c2d1f1ec7d6996">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\7af413cf2a65201ebd188df6ff86775f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0e97fa8abc1a1a90087ce8b093d11f1a8e0f1214">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\79f50ad459f51887f764b9e7b57558fd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\807b3a65792c0000b7a8a9b9b84bd872\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-3.2.1.aar\41370e26d45f92e5b86535f063669933\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aa81940900f350a10deb9824eb3e7daf0d688b0b">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\67bad811bf14e668ba9c764e21d86944\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aeca0a0ab86831ec59a54723205ce9341ac22d1b">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0544f057d298d943b9d926cbc7036553\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7acfe82f9818960690816133001218c52e840175">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\715594c09d4b75f268a3751fa54f8664\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\1559c5d8cc6102f62a1406dec4720f39\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\246cb3bf7544df110bff62bbb9b20124\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7103318ab8a16fe56a325b7554b088f4d49e4700">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\d8cafa4291de81f74e9cbbfb565eb28d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a7760a45a6c9f425aaa43ef391a8cf28a8bcb4a1">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\2b2d62b647d7ca4a92ff589a7c7a4cb7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4acee87c1f3801ff4162b2f8d5b3cf999007ee6f">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\firebase-ui-common-3.2.1.aar\29207f4baeb0a05c0b671a376c76e232\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="275a64094a914063b2150b4f8461f0568111f853">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\213a5fb5b68ac96e6f8bcb4b8105db4e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\b9b1780a18fb65c870c13b0f56ed9da1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.15.aar\c36f054e637b637f92b2f8fb7eebe009\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="968e7f49553a7758720f1df3771aea03eca1d60f">
+        <dex dex="F:\Wazzaf\FirebaseRecyclerViewTutorial-master\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+
+</items>

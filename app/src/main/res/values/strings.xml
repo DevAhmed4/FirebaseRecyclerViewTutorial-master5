@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">وظفني</string>
+    <string name="title_activity_news_web_view">wazfnynow.com</string>
+    <string name="title_activity_main2">Add News</string>
+    <string name="title_activity_splash__screen">وظفني</string>
+    <string name="saved_high_score_key">key</string>
+    <string name="collapsingToolBarTitle"></string>
+
+
+</resources>

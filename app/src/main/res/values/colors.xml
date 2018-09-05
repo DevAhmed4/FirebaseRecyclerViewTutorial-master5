@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#303F9F</color>
+    <color name="MainColor">#21618c</color>
+    <color name="Splash_Screen_BackGround">#effbf8</color>
+
+    <!-- colors for fragment  -->
+    _colorPrimary
+    <color name="_colorPrimaryDark">#2f333f</color>
+    <color name="_BlueLight">#49acd5</color>
+    <color name="Green">#45bc62</color>
+    <color name="Orange">#eaad43</color>
+    <color name="ColorAccent">#FF4081</color>
+    <color name="lightgray">#ededed</color>
+
+    <!-- colors for collapsing tool bar  -->
+    <color name="toolbarPrimary">#FFC107</color>
+    <color name="toolbarPrimaryDarkk">#FFA000</color>
+    <color name="toolbarAccent">#FF4081</color>
+</resources>
